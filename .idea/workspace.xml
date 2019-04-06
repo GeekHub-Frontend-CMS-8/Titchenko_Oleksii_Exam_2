@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfecf3e6-9e1c-4138-926b-d1b2c2166ee4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Lesson18/app/sass/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson18/app/sass/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson18/app/sass/_news.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson18/app/sass/_talent.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/app/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/about-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/diploma 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/diploma2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/happy-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/jobs-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/line-wavy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/about/reviews-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/blog/blog-image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/blog/blog-image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/icon-behance.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/icon-facebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/icon-twitter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/left.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/linea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/logo-atlantida.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/home/right@3x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/looking/kompass-grey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/looking/kompass.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/our-time/bg-our-time.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/our-time/gorizont-line.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/our-time/miss-Jilia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/our-time/miss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/our-time/mister.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/1-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/1_2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/2_2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/3-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/3_2-foto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/4-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/5-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/5_2-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/6-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/6_2-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/6_3-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/7-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/portfolio/8-foto-portfolio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/prices/Background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/prices/line-Divider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/services/analitics-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/services/background-services.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/services/background-services.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/services/display.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/services/lampochka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/services/line-wavy-light.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/img/services/wordpress-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_about-level.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_blog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/app/sass/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_history.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_looking.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_our-time.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_portfolio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_prices.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_services.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_timeline.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/_timeline2.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson18/app/sass/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson18/app/wpid-Amsdam-Typeface.zip" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="e#6#263#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/font-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="2" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="2" />
+              <folding>
+                <element signature="e#6#38#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="417" selection-start-line="417" selection-end-line="417" />
+              <folding>
+                <element signature="e#6#142#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page-blog-posts.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+              <folding>
+                <element signature="e#6#41#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#6#358#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_global.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_news.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_talent.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>regi</find>
+      <find>start</find>
+      <find>sidebar</find>
+      <find>sideb</find>
+      <find>menu</find>
+      <find>act</find>
+      <find>thumb</find>
+      <find>thumbn</find>
+      <find>thu</find>
+      <find>gal</find>
+      <find>gall</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lesson18/app" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_hero.scss" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_choose.scss" />
+        <option value="$PROJECT_DIR$/template-blog.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/template-portfolio.php" />
+        <option value="$PROJECT_DIR$/single-custom-tamplate-for-posts.php" />
+        <option value="$PROJECT_DIR$/$custom.php" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_history.scss" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_footer.scss" />
+        <option value="$PROJECT_DIR$/inc/sample-config.php" />
+        <option value="$PROJECT_DIR$/single-blog.php" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_portfolio.scss" />
+        <option value="$PROJECT_DIR$/archive-blog.php" />
+        <option value="$PROJECT_DIR$/archive.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/single.php" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_blog.scss" />
+        <option value="$PROJECT_DIR$/header-blog.php" />
+        <option value="$PROJECT_DIR$/page-blog.php" />
+        <option value="$PROJECT_DIR$/sidebar-blog.php" />
+        <option value="$PROJECT_DIR$/category.php" />
+        <option value="$PROJECT_DIR$/../../../../akad/akad2/wp-config.php" />
+        <option value="$PROJECT_DIR$/../../../../akad/akad2/akad2/wp-content/themes/akad2/style.css" />
+        <option value="$PROJECT_DIR$/rtl.css" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_global.scss" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_header.scss" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_talent.scss" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/style.scss" />
+        <option value="$PROJECT_DIR$/Lesson18/app/sass/_news.scss" />
+        <option value="$PROJECT_DIR$/font-page.php" />
+        <option value="$PROJECT_DIR$/page.php" />
+        <option value="$PROJECT_DIR$/page-blog-posts.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="21" />
+    <option name="width" value="1440" />
+    <option name="height" value="819" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="akad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="akad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akad" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="akad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akad" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson18" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="akad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akad" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson18" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="akad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akad" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson18" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GeekHub" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfecf3e6-9e1c-4138-926b-d1b2c2166ee4" name="Default Changelist" comment="" />
+      <created>1552252727038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552252727038</updated>
+      <workItem from="1552252731308" duration="93000" />
+      <workItem from="1552252940669" duration="10163000" />
+      <workItem from="1552329756091" duration="14131000" />
+      <workItem from="1552405832997" duration="15330000" />
+      <workItem from="1552577014792" duration="14183000" />
+      <workItem from="1552817255586" duration="29359000" />
+      <workItem from="1553341536739" duration="83679000" />
+      <workItem from="1554402433531" duration="645000" />
+      <workItem from="1554408030939" duration="29660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="197243000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17936508" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49920633" visible="true" weight="0.34662578" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50079364" side_tool="true" weight="0.34662578" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17936508" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49920633" visible="true" weight="0.34662578" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50079364" side_tool="true" weight="0.34662578" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/$custom.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../plugins/single-post-template/post_templates.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="111" column="21" selection-start-line="111" selection-start-column="21" selection-end-line="111" selection-end-column="21" />
+          <folding>
+            <element signature="e#6#408#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/sample-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#6#237#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_blog.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_hero.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_history.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_portfolio.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sidebar-portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="48" column="104" selection-start-line="48" selection-start-column="104" selection-end-line="48" selection-end-column="104" />
+          <folding>
+            <element signature="e#6#263#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#156#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archive-blog.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#171#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="e#6#34#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-blog.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#6#172#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sidebar-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <element signature="e#6#172#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#6#427#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/GeekHub/MyCustom Plugin Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2027">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding>
+            <element signature="e#8#54#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#6#278#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="37" column="3" lean-forward="true" selection-end-line="88" />
+          <folding>
+            <element signature="e#6#471#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../akad/akad2/wp-config.php" />
+    <entry file="file://$PROJECT_DIR$/../../../wp-config-sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#471#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../geekhub/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="true" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../akad/akad2/akad2/wp-content/themes/akad2/rtl.css" />
+    <entry file="file://$PROJECT_DIR$/../../../../akad/akad2/akad2/wp-content/themes/akad2/style.css" />
+    <entry file="file://$PROJECT_DIR$/Lesson18/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../akad2/wp-content/themes/akad2/Lesson18/app/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="59" lean-forward="true" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../akad2/wp-content/themes/akad2/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="388" column="18" selection-start-line="388" selection-start-column="18" selection-end-line="388" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-blog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#6#45#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-custom-tamplate-for-posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#6#150#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#6#263#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_talent.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson18/app/sass/_news.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="417" selection-start-line="417" selection-end-line="417" />
+          <folding>
+            <element signature="e#6#142#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/font-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="2" />
+          <folding>
+            <element signature="e#6#38#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#6#358#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page-blog-posts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="38" column="37" lean-forward="true" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+          <folding>
+            <element signature="e#6#41#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
